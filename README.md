@@ -1,16 +1,74 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Akshaya0215/akshaya0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=120&section=header&text=&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vardhan+Adheli+%F0%9F%91%8B;Full+Stack+Developer;Java+%2B+Spring+Boot+%E2%9A%A1;React+%2B+JavaScript+%F0%9F%94%A5;Building+Things+That+Matter" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Profile views + followers badges -->
+<img src="https://komarev.com/ghpvc/?username=vardhan1564&label=Profile+Views&color=58A6FF&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/vardhan1564?label=Followers&style=flat-square&color=58A6FF" />
+
+</div>
+
+---
+
+## ◈ About Me
+
+I'm **Akshaya Dashinola**, a passionate Full Stack Developer from **Hyderabad, India** 🇮🇳.
+I love building end-to-end web applications — from crafting clean, responsive UIs to designing robust backend systems.
+
+Currently levelling up in **Java Full Stack Development**, I enjoy bridging the gap between great design and powerful backend logic using **Spring Boot** and **Java**. I believe in writing code that's not just functional — but clean, scalable, and meaningful.
+
+When I'm not coding, I'm sharpening my problem-solving skills and Developement  or exploring new tech to stay ahead of the curve. Always learning. Always building. 🚀
+
+```yaml
+📍 Location   : Hyderabad, India
+🎯 Focus      : Full Stack Development
+📚 Learning   : Java · Rest API · SQL · Python
+📧 Email      : akshayaa0215@gmail.com
+🔗 LinkedIn   : 
+🟢 Status     : Open to Opportunities
+```
+
+---
+
+## ◈ Tech Stack
+
+<div align="center">
+
+### 🖥️ Backend
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=github,vscode,idea,postman&theme=dark" />
+
+</div>
+
+---
+
+## ◈ Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayadashinola/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayaa0215@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer&animation=fadeIn" />
+
+</div>
