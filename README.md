@@ -25,7 +25,7 @@ I believe in writing code that is structured, readable, and purposeful — and I
 ```yaml
 🎓 Degree     : B.Tech — Electronics & Telecommunication (ENTC)
 📅 Batch      : 2025 Graduate
-🎯 Focus      : Backend Development · APIs · Python
+🎯 Focus      : Java · Rest APIs · Python
 📧 Email      : akshayaa0215@gmail.com
 🔗 LinkedIn   : linkedin.com/in/akshayadashinola
 🟢 Status     : Open to Opportunities
