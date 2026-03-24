@@ -16,16 +16,17 @@
 
 ## ◈ About Me
 
-I'm **Akshaya Dashinola**, a passionate developer and **B.Tech Electronics & Telecommunication (ENTC) graduate of 2025** from India 🇮🇳.
+I'm **Akshaya Dashinola**, a passionate developer and **B.Tech Electronics & Telecommunication (ENTC) graduate of 2025** from **Hyderabad, India** 🇮🇳.
 
 With a strong foundation in both electronics and software, I bring a unique cross-disciplinary mindset to development. I enjoy building reliable backend systems using **Java** and **Python**, designing clean APIs, and working with databases to solve real-world problems.
 
 I believe in writing code that is structured, readable, and purposeful — and I'm always eager to learn new technologies and apply them to meaningful projects. Driven by curiosity and a love for problem-solving. Always growing. 💡
 
 ```yaml
+📍 Location   : Hyderabad, India
 🎓 Degree     : B.Tech — Electronics & Telecommunication (ENTC)
 📅 Batch      : 2025 Graduate
-🎯 Focus      : Java · Rest APIs · Python
+🎯 Focus      : Backend Development · APIs · Python
 📧 Email      : akshayaa0215@gmail.com
 🔗 LinkedIn   : linkedin.com/in/akshayadashinola
 🟢 Status     : Open to Opportunities
