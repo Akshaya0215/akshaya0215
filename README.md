@@ -60,7 +60,7 @@ I believe in writing code that is structured, readable, and purposeful — and I
 
 </div>
 
----
+-----
 
 <div align="center">
 
